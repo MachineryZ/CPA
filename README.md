@@ -9,16 +9,18 @@ Certified Public Accountant
 - Corporate Strategy and Risk Management: $\star$ $\star$
 
 First Year 2025.08
-- Accounting:
-- Economic Law:
+- Accounting
+- Corporate Strategy and Risk Management
 
 Second Year 2026.08
 - Auditing
 - Financial Cost Management
 - Tax Law
-- Corporate Strategy and Risk Management
+- Economic Law:
 
 Accounting
 essential 6, 10, 13, 14, 17, 19, 24, 27
 normal 2, 5, 8, 9, 15, 16, 18, 19, 21, 22, 25, 28, 30,
-random 1, 3, 4, 11, 12, 19, 20  
+random 1, 3, 4, 11, 12, 19, 20
+
+Corporate Strategy and Risk Management
