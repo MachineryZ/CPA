@@ -13,10 +13,12 @@ First Year 2025.08
 - Corporate Strategy and Risk Management
 
 Second Year 2026.08
-- Auditing
 - Financial Cost Management
 - Tax Law
-- Economic Law:
+
+Third Year 2027.08
+- Auditing
+- Economic Law
 
  Accounting
 - essential 6, 10, 13, 14, 17, 19, 24, 27
@@ -24,3 +26,21 @@ Second Year 2026.08
 - random 1, 3, 4, 11, 12, 19, 20
 
 Corporate Strategy and Risk Management
+- essential
+- normal
+- random
+
+Financial Cost Management
+- essential
+- normal
+- random
+
+Tax Law
+- essential
+- normal
+- random
+
+Economic Law
+- essential
+- normal
+- random
